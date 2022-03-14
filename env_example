@@ -1,0 +1,11 @@
+#PostgreSQL
+POSTGRES_ENGINE="django.db.backends.postgresql_psycopg2"
+POSTGRES_NAME=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+
+#MongoDB
+MONGO_NAME=mongo_app
+MONGO_HOST="mongodb://mongodb:27017/"
